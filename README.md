@@ -1,4 +1,4 @@
-# STACK-ADT---Linked-List-Implementation
+# STACK-ADT---Singly-Linked-List-Implementation---Personel-Project
 This project is a personal project of mine where I have implemented the STACK ADT as a Linked List. It contains the common operations performed by a simple stack ADT which is push, pop, peek, is empty, and get length. Each file contains an operation which is explained through the comments.
 
 Memory:
